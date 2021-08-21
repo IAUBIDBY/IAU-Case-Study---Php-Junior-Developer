@@ -6,17 +6,17 @@ You should Know:
 
 - The git command line tool or a Git tools like SourceTree or GitHub Desktop installed on your computer.
 - A Github account
-- IDE (editor) ıts for your choice
+- IDE (editor) its for your choice
 
 
 ### Instructions
-This case study you have three hours (3-HRS) but you can fınısh ıt ın 5 days for joıner developer also ıts depending on your depth and ability. This study is mostly to see HOW you approach the problems.
+This case study you have three hours (3-HRS) but you can finish it in 5 days for joiner developer also its depending on your depth and ability. This study is mostly to see HOW you approach the problems.
 
-theır ıs max 5 days to finish your task. after that time your code will be not accepted
+their is max 5 days to finish your task. after that time your code will be not accepted
 
 ### Tech
 
-You may know open source (PHP) core programing and how to use frameworks wıth defferent  packages/libraries and functions where he/she can complete project/task.
+You may know open source (PHP) core programing and how to use frameworks with defferent  packages/libraries and functions where he/she can complete project/task.
 
 * PHP
 * MYSQL
@@ -38,7 +38,7 @@ Below their are some instructions it may helpful you to complete your task
 
 ## The Case Study
 
-** Your task is to create a basic product listing page (I know ıts hard,  I'm sorry :) ) The requirements are below. Our recommendation is to read through the wholelist before you consider the architecture you wish to employ.*
+** Your task is to create a basic product listing page (I know its hard,  I'm sorry :) ) The requirements are below. Our recommendation is to read through the wholelist before you consider the architecture you wish to employ.*
 
 - User Login Page (not need any register or validation or security system. you can this too basic)
 - Withdraw currency information.
