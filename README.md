@@ -12,11 +12,11 @@ You should Know:
 ### Instructions
 This case study you have three hours (3-HRS) but you can fınısh ıt ın 5 days for joıner developer also ıts depending on your depth and ability. This study is mostly to see HOW you approach the problems.
 
-theır ıs max 5 days to fınısh your task. after that tıme your code wıll be not accepted
+theır ıs max 5 days to finish your task. after that time your code will be not accepted
 
 ### Tech
 
-You may know open source (PHP) core programing and how to use frameworks wıth defferent  packages/libraries and functıons where  he/she can complate project/task.
+You may know open source (PHP) core programing and how to use frameworks wıth defferent  packages/libraries and functions where he/she can complete project/task.
 
 * PHP
 * MYSQL
@@ -31,7 +31,7 @@ You may know open source (PHP) core programing and how to use frameworks wıth d
 - Create the project using ANY PHP framework
 - Create a pull request back to this repository for review
 
-Below theır are some instructions ıt may helpful you to complete your task
+Below their are some instructions it may helpful you to complete your task
 
 - https://help.github.com/articles/fork-a-repo/
 - https://help.github.com/articles/adding-a-remote/
