@@ -4,9 +4,9 @@
 
 You should Know:
 
-- The git command line tool or a Git tools like SourceTree installed on your computer.
+- The git command line tool or a Git tools like SourceTree or GitHub Desktop installed on your computer.
 - A Github account
-- IDE (editor) ıts for your choıce
+- IDE (editor) ıts for your choice
 
 
 ### Instructions
