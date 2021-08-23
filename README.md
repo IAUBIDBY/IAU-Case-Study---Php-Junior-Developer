@@ -12,19 +12,19 @@ You should Know:
 ### Instructions
 This case study you have three hours (3-HRS) but you can finish it in 5 days for joiner developer also its depending on your depth and ability. This study is mostly to see HOW you approach the problems.
 
-their is max 5 days to finish your task. after that time your code will be not accepted
+Your due date is 5 days. Longer than 5 days projects will not accepted. 
 
 ### Tech
 
-You may know open source (PHP) core programing and how to use frameworks with defferent  packages/libraries and functions where he/she can complete project/task.
+You may know open source (PHP) core programing and how to use frameworks with different packages/libraries and functions where it can complete project/task.
 
 * PHP
 * MYSQL
 * HTML
 * CSS
 * JAVASCRIPT
-* JQUERY AND JQUERY API
-* JQUERY API
+
+
 
 ### How To Submit Code
 - Fork this repository into your Github account
